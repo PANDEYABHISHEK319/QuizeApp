@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_one">Q.1: How to kill an activity in Android?</string>
+    <string name="question_two">Q.2: What is android view group?</string>
+    <string name="question_three">Q.3: What is ANR in android?</string>
+    <string name="question_four">Q.4: What is the difference between content values and cursor in android SQlite?</string>
+    <string name="question_five">Q.5: How to get current location in android?</string>
+    <string name="question_six">Q.6: What is LastKnownLocation in android?</string>
+    <string name="question_seven">Q.7: What is the library of Map View in android?</string>
+    <string name="question_eight">Q.8: What is fragment in android?</string>
+    <string name="question_nine">Q.9: What is transient data in android?</string>
+    <string name="question_ten">Q.10: What is a thread in android?</string>
+
+
+    <string name="q1i">finish()</string>
+    <string name="q1ii">finishActivity(int requestCode)</string>
+    <string name="q1iii">kill()</string>
+    <string name="q1iv">None of these</string>
+
+
+    <string name="q2i">Collection of views and other child views</string>
+    <string name="q2ii">Base class of building blocks</string>
+
+
+    <string name="q3i">When the application is not responding ANR will occur.</string>
+    <string name="q3ii">Dialog box is called as ANR.</string>
+
+
+    <string name="q4i">Content values are key pair values, which are updated or inserted in the database</string>
+    <string name="q4ii">Cursor is used to store the temporary result.</string>
+    <string name="q4iii">Cursor is used to store data permanently.</string>
+
+    <string name="q5i">Using with GPRS</string>
+    <string name="q5ii">Using location provider</string>
+    <string name="q5iii">SQlite</string>
+    <string name="q6ii">To find the last location of a phone</string>
+    <string name="q6i">To find the last known location of a phone.</string>
+    <string name="q7i">com.goggle.gogglemaps</string>
+    <string name="q7ii">in.maps</string>
+
+    <string name="q9i">Temporary data</string>
+    <string name="q9ii">Logical data</string>
+    <string name="q10ii">Same as services</string>
+    <string name="submit">Submit</string>
+    <string name="q10i">Independent dis-patchable unit is called a thread</string>
+    <string name="q8">Peace of Activity</string>
+    <string name="congrats">Congratulation you complete this quiz. </string>
+    <string name="point">Your point is </string>
+    <string name="cancel">Cancel</string>
+</resources>
